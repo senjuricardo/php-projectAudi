@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09379a69-d8a0-4bbd-be1c-d468c93dddcd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/components/carrousel/carrousel.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/imgTexto/imgTexto.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/atec.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/atec.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AudiController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AudiController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/audi/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/audi/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/card/card.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/card/card.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/cards/cards.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/cards/cards.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/master/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/master/footer.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +157,7 @@
       <option name="presentableId" value="Default" />
       <updated>1648060428050</updated>
       <workItem from="1648060430131" duration="206000" />
-      <workItem from="1648060648743" duration="11132000" />
+      <workItem from="1648060648743" duration="11775000" />
     </task>
     <servers />
   </component>
