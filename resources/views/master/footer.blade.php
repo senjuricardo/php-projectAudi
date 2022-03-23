@@ -2,7 +2,7 @@
     <div class="row">
         <div class="col-12">
             <p class="text-center w-100">
-                Renato Rodrigues
+                Ricardo Sousa Oficial
             </p>
         </div>
     </div>

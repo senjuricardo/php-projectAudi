@@ -3,10 +3,12 @@
         @for($i=0;$i<3;$i++)
         <div class="col-4">
             @component('components.card.card',
-            [
-                'title'=> "Title  {$i}",
-                'desc'=> "Desc  {$i}",
-                ])
+             [
+                  'image' => $images[$i],
+
+                  'title'=> "Card tittle",
+                  'desc'=> "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            ])
             @endcomponent
         </div>
         @endfor
