@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09379a69-d8a0-4bbd-be1c-d468c93dddcd" name="Changes" comment="Model layer develop">
+      <change afterPath="$PROJECT_DIR$/resources/views/components/PlayerList/playerList.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/pages/players/index.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,14 +136,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/components/PlayerList" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ATEC\disciplinas\php\atec\resources\views\components\PlayerList" />
+      <recent name="D:\ATEC\disciplinas\php\atec\resources\views\pages" />
       <recent name="D:\ATEC\php\atec\resources\views\components\imgTexto" />
       <recent name="D:\ATEC\php\atec\resources\views\components\carrousel" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ATEC\disciplinas\php\atec\resources\views\pages\players" />
     </key>
   </component>
   <component name="RunManager">
@@ -160,7 +169,7 @@
       <workItem from="1648060648743" duration="21316000" />
       <workItem from="1648665491043" duration="1114000" />
       <workItem from="1648666614505" duration="18359000" />
-      <workItem from="1649267427286" duration="3977000" />
+      <workItem from="1649267427286" duration="10540000" />
     </task>
     <task id="LOCAL-00001" summary="Hello">
       <created>1648074982329</created>
