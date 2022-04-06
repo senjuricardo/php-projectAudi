@@ -15,6 +15,7 @@ class PersonSeeder extends Seeder
 
         for ($i =1; $i<51; $i++){
         DB::table('people')->insert([
+            'address_id' => rand(1,150),
             'name' => 'Ricardo',
             'email' => 'email.'.$i.'@hotmail.com',
             'dateOfBirth' => '1994-04-16',
