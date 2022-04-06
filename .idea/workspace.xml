@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="09379a69-d8a0-4bbd-be1c-d468c93dddcd" name="Changes" comment="Model layer develop">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/factories/PersonFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/PersonFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2022_04_01_110852_create_people_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2022_04_01_110852_create_people_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/PersonSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/PersonSeeder.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +160,7 @@
       <workItem from="1648060648743" duration="21316000" />
       <workItem from="1648665491043" duration="1114000" />
       <workItem from="1648666614505" duration="18359000" />
-      <workItem from="1649267427286" duration="3113000" />
+      <workItem from="1649267427286" duration="3977000" />
     </task>
     <task id="LOCAL-00001" summary="Hello">
       <created>1648074982329</created>
