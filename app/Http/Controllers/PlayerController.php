@@ -48,7 +48,8 @@ class PlayerController extends Controller
      */
     public function show(Player $player)
     {
-        //
+       // $player = $player::find($id);
+        return view('pages.players.show', ['player' => $player]);
     }
 
     /**

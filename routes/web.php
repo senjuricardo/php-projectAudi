@@ -15,6 +15,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/','AudiController@index');
 
 Route::get('/players','PlayerController@index');
+Route::get('/players/{player}','PlayerController@show');
 
 Route::get('/teams','TeamController@index');
 //Route::get('hello-world','HelloWorldController@index');
